@@ -24,12 +24,12 @@ github: trending
 twitter: twitter
 tel: +49 5251 60-3181
 tel_full: tel:+49 5251 60-3181
-google_maps: 'https://www.google.com/maps/place/Paderborn'
+google_maps: 'https://www.google.com/maps/place/KTH+Royal+Institute+of+Technology'
 address:
-  street: Warburger Str. 100
-  postcode: 33098
-  city: Paderborn
-  country: Germany
+  street:  Brinellvägen 8
+  postcode: SE-100 44
+  city: Stockholm
+  country: Sweden
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
